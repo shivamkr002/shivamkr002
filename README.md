@@ -16,31 +16,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 💼 Experience & Expertise
 
-- **Languages:** JavaScript, Python, Java, C++
-- **Frontend:** React, Vue.js, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools & Platforms:** Git, Docker, AWS, Linux
-- **Other:** REST APIs, Microservices, CI/CD
+- **Languages:** JavaScript, C++
+- **Frontend:**  HTML5, CSS3, Tailwind CSS,  
+- **Backend:** Php,
+
 
 ---
 
-## 🎯 Featured Projects
-
-### [Project Name 1](#)
-*Description of your most impressive project*
-- Key technologies and achievements
-- [View Repository](link)
-
-### [Project Name 2](#)
-*Description of another great project*
-- Key technologies and achievements
-- [View Repository](link)
-
-### [Project Name 3](#)
-*Description of a meaningful contribution*
-- Key technologies and achievements
-- [View Repository](link)
 
 ---
 
